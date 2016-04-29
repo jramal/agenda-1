@@ -8,6 +8,6 @@ Para execeutar o porjeto é necessário usar:
   - postgres; e
   - prmefaces-5.3.
 
-[SQL] (https://github.com/luan373/agenda/sql.txt)
+[SQL] (https://github.com/luan373/agenda/blob/master/sql.txt)
 
 
