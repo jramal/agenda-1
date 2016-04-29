@@ -5,6 +5,7 @@
 
 Para execeutar o porjeto é necessário usar:
   - jsf;
+  - tomcat 8.0;
   - postgres; e
   - prmefaces-5.3.
 
